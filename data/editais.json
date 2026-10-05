@@ -1,1 +1,97 @@
-{"gerado_em": null, "fontes": [], "items": []}
+{
+ "gerado_em": "2026-10-05T21:32:00.952776+00:00",
+ "fontes": [
+  {
+   "fonte": "IDB Lab",
+   "itens": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Google.org",
+   "itens": 0,
+   "erro": null
+  },
+  {
+   "fonte": "Finep",
+   "itens": 2,
+   "erro": null
+  },
+  {
+   "fonte": "BNDES",
+   "itens": 0,
+   "erro": null
+  },
+  {
+   "fonte": "CNPq",
+   "itens": 0,
+   "erro": null
+  },
+  {
+   "fonte": "FAPESP",
+   "itens": 3,
+   "erro": null
+  },
+  {
+   "fonte": "Embrapii",
+   "itens": 1,
+   "erro": null
+  },
+  {
+   "fonte": "Sebrae",
+   "itens": 0,
+   "erro": null
+  }
+ ],
+ "items": [
+  {
+   "id": "3b8f796608e5",
+   "fonte": "FAPESP",
+   "grupo": "Inovação e tecnologia",
+   "titulo": "Bolsa de PD em Inteligência Artificial aplicada a Saúde e Bem-Estar Instituição: Instituto de Computação, Universidade Estadual de Campinas (IC-Unicamp) Cidade: Campinas Inscrições até: 05/10/2026 O Laboratório de Inteligência Artificial (Recod.ai) do IC-Unicamp abre chamada para uma vaga de Pós-Doutorado na área de Inteligência Artificial aplicada a Saúde e Bem-Estar. O(A) bolsista será responsável pela gestão de pesquisas voltadas ao desenvolvimento de algoritmos para o monitoramento contínuo da saúde por meio...",
+   "link": "https://fapesp.br/oportunidades/viva-bem:-inteligencia-artificial-para-saude-e-bem-estar/9740/",
+   "prazo": "2026-10-05",
+   "aderencia": 7,
+   "visto_em": "2026-10-05"
+  },
+  {
+   "id": "4db19786f5fd",
+   "fonte": "Finep",
+   "grupo": "Inovação e tecnologia",
+   "titulo": "Fundos de Investimento e Empresas Investimento Indireto",
+   "link": "https://www.finep.gov.br/fundos-de-investimento",
+   "prazo": null,
+   "aderencia": 0,
+   "visto_em": "2026-10-05"
+  },
+  {
+   "id": "a300d41011ea",
+   "fonte": "FAPESP",
+   "grupo": "Inovação e tecnologia",
+   "titulo": "FAPESP | Fundo de Amparo à Pesquisa do Estado de São Paulo",
+   "link": "http://fapesp.br",
+   "prazo": null,
+   "aderencia": 0,
+   "visto_em": "2026-10-05"
+  },
+  {
+   "id": "6ddb940473a8",
+   "fonte": "FAPESP",
+   "grupo": "Inovação e tecnologia",
+   "titulo": "Post-Doctoral Fellowship in Architectures for Data Interoperability and Integration Instituition: Instituto de Ciências Matemáticas e de Computação, Universidade de São Paulo (ICMC-USP) City: São Carlos Deadline for submissions: 2026-10-15 Public administration faces major challenges in integrating data across sectors like healthcare, education, and transportation due to diverse systems, formats, and policies. This 24-month post-doctoral project aims to design and implement innovative solutions, such as lakehouse architectures, to enable data interoperability across sectors in the...",
+   "link": "https://fapesp.br/oportunidades/integrasanca:-conectando-dados-transformando-sao-carlos/9854/",
+   "prazo": null,
+   "aderencia": 0,
+   "visto_em": "2026-10-05"
+  },
+  {
+   "id": "a4cad6a0fe69",
+   "fonte": "Embrapii",
+   "grupo": "Inovação e tecnologia",
+   "titulo": "Chamadas Públicas",
+   "link": "https://embrapii.org.br/transparencia/#chamadas",
+   "prazo": null,
+   "aderencia": 0,
+   "visto_em": "2026-10-05"
+  }
+ ]
+}
