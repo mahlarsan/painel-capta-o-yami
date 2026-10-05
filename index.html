@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Oportunidades de financiamento · Yami</title>
+<style>
+:root{--ink:#16231c;--mute:#5a6b62;--bg:#f5f7f6;--card:#fff;--line:#d5ddd9;--green:#1e5b43;--amber:#b4540a}
+@media (prefers-color-scheme:dark){:root{--ink:#e6eee9;--mute:#9db0a5;--bg:#101814;--card:#17221c;--line:#2a3a31;--green:#6fc29a;--amber:#f0a35e}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+main{max-width:980px;margin:0 auto;padding:32px 20px 56px}
+h1{font-size:1.7rem;margin:0 0 4px;letter-spacing:-.01em}
+.sub{color:var(--mute);margin:0 0 24px}
+.bar{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:16px}
+input,select{font:inherit;padding:8px 10px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--ink)}
+input[type=search]{flex:1;min-width:200px}
+:focus-visible{outline:2px solid var(--green);outline-offset:2px}
+.count{color:var(--mute);margin:0 0 12px;font-size:.9rem}
+.item{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--line);border-radius:6px;padding:14px 16px;margin-bottom:10px;display:grid;grid-template-columns:1fr auto;gap:6px 16px}
+.item.alta{border-left-color:var(--green)}
+.item a{color:var(--ink);font-weight:600;text-decoration:none}
+.item a:hover{text-decoration:underline}
+.meta{color:var(--mute);font-size:.88rem}
+.prazo{font-size:.9rem;text-align:right;white-space:nowrap}
+.prazo.perto{color:var(--amber);font-weight:600}
+.item select{grid-column:2;grid-row:2;font-size:.85rem;padding:4px 6px}
+.vazio{padding:32px;text-align:center;color:var(--mute);border:1px dashed var(--line);border-radius:6px}
+details{margin-top:28px;color:var(--mute);font-size:.88rem}
+@media (max-width:560px){.item{grid-template-columns:1fr}.prazo{text-align:left}.item select{grid-column:1;grid-row:auto}}
+</style>
+</head>
+<body>
+<main>
+<h1>Oportunidades de financiamento para a Yami</h1>
+<p class="sub" id="gerado">Carregando…</p>
+<div class="bar">
+  <input type="search" id="q" placeholder="Buscar por título ou fonte" aria-label="Buscar">
+  <select id="grupo" aria-label="Grupo"><option value="">Todos os grupos</option></select>
+  <select id="fonte" aria-label="Fonte"><option value="">Todas as fontes</option></select>
+  <select id="ader" aria-label="Aderência">
+    <option value="0">Qualquer aderência</option><option value="3">Aderência média ou alta</option><option value="6">Só alta aderência</option>
+  </select>
+  <select id="stat" aria-label="Acompanhamento">
+    <option value="">Todos os status</option><option value="novo">Sem status</option><option value="analisando">Analisando</option>
+    <option value="submeter">Vou submeter</option><option value="descartado">Descartado</option>
+  </select>
+</div>
+<p class="count" id="count"></p>
+<div id="lista"></div>
+<details><summary>Saúde das fontes</summary><ul id="fontes"></ul></details>
+</main>
+<script>
+const $ = id => document.getElementById(id);
+let DATA = {items: [], fontes: []};
+let status = {};
+try { status = JSON.parse(localStorage.getItem("yami-status") || "{}"); } catch(e) {}
+const save = () => { try { localStorage.setItem("yami-status", JSON.stringify(status)); } catch(e) {} };
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const dias = iso => Math.ceil((new Date(iso) - new Date(new Date().toDateString())) / 864e5);
+const fmt = iso => iso.split("-").reverse().join("/");
+
+function render() {
+  const q = $("q").value.toLowerCase(), g = $("grupo").value, f = $("fonte").value, a = +$("ader").value, st = $("stat").value;
+  const rows = DATA.items.filter(i =>
+    (!q || (i.titulo + " " + i.fonte).toLowerCase().includes(q)) && (!g || i.grupo === g) && (!f || i.fonte === f) &&
+    i.aderencia >= a && (!st || (st === "novo" ? !status[i.id] : status[i.id] === st)))
+    .sort((x, y) => (x.prazo ? 0 : 1) - (y.prazo ? 0 : 1) || (x.prazo || "").localeCompare(y.prazo || "") || y.aderencia - x.aderencia);
+  $("count").textContent = rows.length + " oportunidade" + (rows.length === 1 ? "" : "s");
+  $("lista").innerHTML = rows.length ? rows.map(i => {
+    const d = i.prazo ? dias(i.prazo) : null, perto = d !== null && d <= 30;
+    const prazo = i.prazo ? `Prazo ${fmt(i.prazo)} (${d} dia${d === 1 ? "" : "s"})` : "Prazo não identificado";
+    const opt = ["", "analisando", "submeter", "descartado"].map(v =>
+      `<option value="${v}" ${(status[i.id] || "") === v ? "selected" : ""}>${{"":"Sem status",analisando:"Analisando",submeter:"Vou submeter",descartado:"Descartado"}[v]}</option>`).join("");
+    return `<article class="item ${i.aderencia >= 6 ? "alta" : ""}">
+      <div><a href="${esc(i.link)}" target="_blank" rel="noopener">${esc(i.titulo)}</a>
+      <div class="meta">${esc(i.fonte)} · ${esc(i.grupo)} · aderência ${i.aderencia} · visto em ${fmt(i.visto_em)}</div></div>
+      <div class="prazo ${perto ? "perto" : ""}">${prazo}</div>
+      <select data-id="${i.id}" aria-label="Status">${opt}</select></article>`;
+  }).join("") : `<div class="vazio">Nada com esses filtros. Afrouxe a aderência ou limpe a busca.</div>`;
+}
+
+fetch("data/editais.json").then(r => r.json()).then(d => {
+  DATA = d;
+  $("gerado").textContent = d.gerado_em ? "Atualizado em " + new Date(d.gerado_em).toLocaleString("pt-BR") : "Ainda sem dados: rode o scraper para gerar data/editais.json.";
+  [["grupo", "grupo"], ["fonte", "fonte"]].forEach(([id, k]) =>
+    [...new Set(d.items.map(i => i[k]))].sort().forEach(v => $(id).add(new Option(v, v))));
+  $("fontes").innerHTML = d.fontes.map(s => `<li>${esc(s.fonte)}: ${s.erro ? "erro (" + esc(s.erro) + ")" : s.itens + " itens" + (s.itens === 0 ? " — confira a URL ou o filtro da fonte" : "")}</li>`).join("");
+  render();
+}).catch(() => { $("gerado").textContent = "Não foi possível carregar data/editais.json."; });
+
+["q", "grupo", "fonte", "ader", "stat"].forEach(id => $(id).addEventListener("input", render));
+$("lista").addEventListener("change", e => {
+  if (!e.target.dataset.id) return;
+  if (e.target.value) status[e.target.dataset.id] = e.target.value; else delete status[e.target.dataset.id];
+  save();
+});
+</script>
+</body>
+</html>
