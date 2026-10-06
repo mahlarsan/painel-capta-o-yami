@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-05T21:32:00.952776+00:00",
+ "gerado_em": "2026-10-06T11:05:08.014360+00:00",
  "fontes": [
   {
    "fonte": "IDB Lab",
@@ -28,7 +28,7 @@
   },
   {
    "fonte": "FAPESP",
-   "itens": 3,
+   "itens": 2,
    "erro": null
   },
   {
@@ -43,16 +43,6 @@
   }
  ],
  "items": [
-  {
-   "id": "3b8f796608e5",
-   "fonte": "FAPESP",
-   "grupo": "Inovação e tecnologia",
-   "titulo": "Bolsa de PD em Inteligência Artificial aplicada a Saúde e Bem-Estar Instituição: Instituto de Computação, Universidade Estadual de Campinas (IC-Unicamp) Cidade: Campinas Inscrições até: 05/10/2026 O Laboratório de Inteligência Artificial (Recod.ai) do IC-Unicamp abre chamada para uma vaga de Pós-Doutorado na área de Inteligência Artificial aplicada a Saúde e Bem-Estar. O(A) bolsista será responsável pela gestão de pesquisas voltadas ao desenvolvimento de algoritmos para o monitoramento contínuo da saúde por meio...",
-   "link": "https://fapesp.br/oportunidades/viva-bem:-inteligencia-artificial-para-saude-e-bem-estar/9740/",
-   "prazo": "2026-10-05",
-   "aderencia": 7,
-   "visto_em": "2026-10-05"
-  },
   {
    "id": "4db19786f5fd",
    "fonte": "Finep",
