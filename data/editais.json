@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-08T11:05:20.708377+00:00",
+ "gerado_em": "2026-10-09T11:04:57.632284+00:00",
  "fontes": [
   {
    "fonte": "IDB Lab",
@@ -28,12 +28,12 @@
   },
   {
    "fonte": "FAPESP",
-   "itens": 2,
+   "itens": 3,
    "erro": null
   },
   {
    "fonte": "Embrapii",
-   "itens": 1,
+   "itens": 2,
    "erro": null
   },
   {
@@ -43,6 +43,26 @@
   }
  ],
  "items": [
+  {
+   "id": "b16684e7e915",
+   "fonte": "Embrapii",
+   "grupo": "Inovação e tecnologia",
+   "titulo": "Embrapii conquista o segundo lugar em prêmio nacional de inovação Prêmio promovido pela Associação Nacional de Pesquisa e Desenvolvimento das Empresas Inovadoras (Anpei) recebeu 439 inscrições de organizações de todo… 8 de outubro de 2026",
+   "link": "https://embrapii.org.br/embrapii-conquista-o-segundo-lugar-em-premio-nacional-de-inovacao/",
+   "prazo": null,
+   "aderencia": 4,
+   "visto_em": "2026-10-09"
+  },
+  {
+   "id": "dcf176fd91a4",
+   "fonte": "FAPESP",
+   "grupo": "Inovação e tecnologia",
+   "titulo": "Post-Doctoral Fellowship in Psychology Instituition: Instituto de Psicologia / Universidade de São Paulo City: São Paulo Deadline for submissions: 2026-11-02 The Postdoctoral fellow will work on symbolic and attentional processes in Experimental Analysis of Behavior. The fellowship is dedicated to the challenge of identifying and systematizing conditions (variables and procedures) that establish and promote the formation and generalization of the symbolic repertoire, particularly as applied to...",
+   "link": "https://fapesp.br/oportunidades/nas-fronteiras-cognitivas-e-comportamentais:-o-papel-da-atencao-visual-nos-processos-psicologicos-basicos-na-formacao-simbolica-e-no-desenvolvimento-da-linguagem/9919/",
+   "prazo": null,
+   "aderencia": 2,
+   "visto_em": "2026-10-09"
+  },
   {
    "id": "4db19786f5fd",
    "fonte": "Finep",
