@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T11:19:04.816384+00:00",
+ "gerado_em": "2026-10-26T11:28:19.265276+00:00",
  "fontes": [
   {
    "fonte": "IDB Lab",
@@ -28,7 +28,7 @@
   },
   {
    "fonte": "FAPESP",
-   "itens": 4,
+   "itens": 3,
    "erro": null
   },
   {
@@ -89,16 +89,6 @@
    "grupo": "Inovação e tecnologia",
    "titulo": "FAPESP | Fundo de Amparo à Pesquisa do Estado de São Paulo",
    "link": "http://fapesp.br",
-   "prazo": null,
-   "aderencia": 0,
-   "visto_em": "2026-10-05"
-  },
-  {
-   "id": "6ddb940473a8",
-   "fonte": "FAPESP",
-   "grupo": "Inovação e tecnologia",
-   "titulo": "Post-Doctoral Fellowship in Architectures for Data Interoperability and Integration Instituition: Instituto de Ciências Matemáticas e de Computação, Universidade de São Paulo (ICMC-USP) City: São Carlos Deadline for submissions: 2026-10-25 Public administration faces major challenges in integrating data across sectors like healthcare, education, and transportation due to diverse systems, formats, and policies. This 24-month post-doctoral project aims to design and implement innovative solutions, such as lakehouse architectures, to enable data interoperability across sectors in the...",
-   "link": "https://fapesp.br/oportunidades/integrasanca:-conectando-dados-transformando-sao-carlos/9854/",
    "prazo": null,
    "aderencia": 0,
    "visto_em": "2026-10-05"
