@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-26T11:28:19.265276+00:00",
+ "gerado_em": "2026-10-27T11:24:56.800916+00:00",
  "fontes": [
   {
    "fonte": "IDB Lab",
@@ -28,7 +28,7 @@
   },
   {
    "fonte": "FAPESP",
-   "itens": 3,
+   "itens": 4,
    "erro": null
   },
   {
@@ -92,6 +92,16 @@
    "prazo": null,
    "aderencia": 0,
    "visto_em": "2026-10-05"
+  },
+  {
+   "id": "634b183e5c39",
+   "fonte": "FAPESP",
+   "grupo": "Inovação e tecnologia",
+   "titulo": "Bolsa de PD em Restauração de Imagens de Radar Meteorológico Instituição: Faculdade de Ciências – UNESP, câmpus Bauru Cidade: Bauru Inscrições até: 12/11/2026 A bolsa de Pós-Doutorado terá duração de 12 meses e envolverá o desenvolvimento de métodos de restauração de imagens de radar meteorológico, incluindo aprendizado profundo residual não local, modelos físicos e aprendizado por transferência. As atividades incluem revisão bibliográfica, implementação de redes neurais e de...",
+   "link": "https://fapesp.br/oportunidades/cepex-–-centro-paulista-de-integracao-de-dados-para-monitoramento-de-eventos-extremos/9967/",
+   "prazo": "2026-11-12",
+   "aderencia": 0,
+   "visto_em": "2026-10-27"
   },
   {
    "id": "a4cad6a0fe69",
