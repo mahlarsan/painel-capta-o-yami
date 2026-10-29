@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-28T11:27:08.993065+00:00",
+ "gerado_em": "2026-10-29T11:27:47.320586+00:00",
  "fontes": [
   {
    "fonte": "IDB Lab",
@@ -28,7 +28,7 @@
   },
   {
    "fonte": "FAPESP",
-   "itens": 4,
+   "itens": 7,
    "erro": null
   },
   {
@@ -44,13 +44,33 @@
  ],
  "items": [
   {
+   "id": "64098c65bfd7",
+   "fonte": "FAPESP",
+   "grupo": "Inovação e tecnologia",
+   "titulo": "Post-Doctoral Fellowship in Artificial Intelligence Instituition: Faculdade de Engenharia Mecânica, Universidade Estadual de Campinas (FEM-Unicamp) City: Campinas Deadline for submissions: 2026-11-14 The Artificial Intelligence Laboratory (Recod.ai) at UNICAMP opens a call for a Post-Doctoral position in the area of Artificial Intelligence applied to Oil and Gas, integrated into the Energy Production Innovation Center (EPIC). The researcher in Artificial Intelligence will be able to act in the...",
+   "link": "https://fapesp.br/oportunidades/centro-de-inovacao-em-producao-de-energia-(epic)/9972/",
+   "prazo": null,
+   "aderencia": 7,
+   "visto_em": "2026-10-29"
+  },
+  {
+   "id": "194ba20d15c4",
+   "fonte": "FAPESP",
+   "grupo": "Inovação e tecnologia",
+   "titulo": "Post-Doctoral Fellowship in Sociology of Science and Technology Instituition: Departamento de Sociologia – Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São Paulo (FFLCH-USP) City: São Paulo Deadline for submissions: 2026-12-04 The researcher will lead a study aiming at investigating how Artificial Intelligence views, narratives and futures are codified in S&T policies and systems internationally, producing effects on the governance, funding, and organization of scientific research. The successful candidate will conduct qualitative research and literature review...",
+   "link": "https://fapesp.br/oportunidades/algoritmos-para-que-codificando-a-relevancia-da-inteligencia-artificial-nas-praticas-normas-valores-e-sistemas-cientificos/9979/",
+   "prazo": null,
+   "aderencia": 5,
+   "visto_em": "2026-10-29"
+  },
+  {
    "id": "b16684e7e915",
    "fonte": "Embrapii",
    "grupo": "Inovação e tecnologia",
    "titulo": "Embrapii conquista o segundo lugar em prêmio nacional de inovação 8 de outubro de 2026",
    "link": "https://embrapii.org.br/embrapii-conquista-o-segundo-lugar-em-premio-nacional-de-inovacao/",
    "prazo": null,
-   "aderencia": 4,
+   "aderencia": 5,
    "visto_em": "2026-10-09"
   },
   {
