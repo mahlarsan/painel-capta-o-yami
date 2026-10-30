@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-29T11:27:47.320586+00:00",
+ "gerado_em": "2026-10-30T11:22:48.273796+00:00",
  "fontes": [
   {
    "fonte": "IDB Lab",
@@ -28,7 +28,7 @@
   },
   {
    "fonte": "FAPESP",
-   "itens": 7,
+   "itens": 8,
    "erro": null
   },
   {
@@ -44,14 +44,14 @@
  ],
  "items": [
   {
-   "id": "64098c65bfd7",
+   "id": "aa77afd58046",
    "fonte": "FAPESP",
    "grupo": "Inovação e tecnologia",
    "titulo": "Post-Doctoral Fellowship in Artificial Intelligence Instituition: Faculdade de Engenharia Mecânica, Universidade Estadual de Campinas (FEM-Unicamp) City: Campinas Deadline for submissions: 2026-11-14 The Artificial Intelligence Laboratory (Recod.ai) at UNICAMP opens a call for a Post-Doctoral position in the area of Artificial Intelligence applied to Oil and Gas, integrated into the Energy Production Innovation Center (EPIC). The researcher in Artificial Intelligence will be able to act in the...",
-   "link": "https://fapesp.br/oportunidades/centro-de-inovacao-em-producao-de-energia-(epic)/9972/",
+   "link": "https://fapesp.br/oportunidades/centro-de-inovacao-em-producao-de-energia-epic/9972/",
    "prazo": null,
    "aderencia": 7,
-   "visto_em": "2026-10-29"
+   "visto_em": "2026-10-30"
   },
   {
    "id": "194ba20d15c4",
@@ -74,24 +74,34 @@
    "visto_em": "2026-10-09"
   },
   {
-   "id": "dcf176fd91a4",
+   "id": "7cee091aacdd",
    "fonte": "FAPESP",
    "grupo": "Inovação e tecnologia",
    "titulo": "Post-Doctoral Fellowship in Psychology Instituition: Instituto de Psicologia / Universidade de São Paulo City: São Paulo Deadline for submissions: 2026-11-02 The Postdoctoral fellow will work on symbolic and attentional processes in Experimental Analysis of Behavior. The fellowship is dedicated to the challenge of identifying and systematizing conditions (variables and procedures) that establish and promote the formation and generalization of the symbolic repertoire, particularly as applied to...",
-   "link": "https://fapesp.br/oportunidades/nas-fronteiras-cognitivas-e-comportamentais:-o-papel-da-atencao-visual-nos-processos-psicologicos-basicos-na-formacao-simbolica-e-no-desenvolvimento-da-linguagem/9919/",
+   "link": "https://fapesp.br/oportunidades/nas-fronteiras-cognitivas-e-comportamentais-o-papel-da-atencao-visual-nos-processos-psicologicos-basicos-na-formacao-simbolica-e-no-desenvolvimento-da-linguagem/9919/",
    "prazo": null,
    "aderencia": 2,
-   "visto_em": "2026-10-09"
+   "visto_em": "2026-10-30"
   },
   {
-   "id": "63095b773f48",
+   "id": "1336a0ed5c66",
    "fonte": "FAPESP",
    "grupo": "Inovação e tecnologia",
    "titulo": "Master’s Fellowship in Molecular Biology Instituition: Escola de Engenharia de Lorena, Universidade de São Paulo (EEL-USP) City: Lorena Deadline for submissions: 2026-11-21 The fellow will screen and select recombinant microalgal strains, produce proteins at small scale, and perform enzyme activity assays and preliminary kinetic characterization. Research will take place at JUST Lab, EEL-USP, Lorena, Brazil, under FAPESP Young Investigator grant 2025/09133-0, supporting bioprocess development for proteins of...",
-   "link": "https://fapesp.br/oportunidades/plataforma-de-desenvolvimento-de-biofarmaco-em-microalgas:-creglicerase/9957/",
+   "link": "https://fapesp.br/oportunidades/plataforma-de-desenvolvimento-de-biofarmaco-em-microalgas-creglicerase/9957/",
    "prazo": null,
    "aderencia": 2,
-   "visto_em": "2026-10-23"
+   "visto_em": "2026-10-30"
+  },
+  {
+   "id": "9852263532c4",
+   "fonte": "FAPESP",
+   "grupo": "Inovação e tecnologia",
+   "titulo": "Bolsa de PD em Saúde Ambiental / Planejamento Urbano Instituição: Instituto de Energia e Ambiente, Universidade de São Paulo (IEE-USP) Cidade: São Paulo Inscrições até: 25/11/2026 Esta chamada de pós-doutorado FAPESP é componente do projeto REACH Nexus, que aplica abordagem de modelagem participativa para investigar as interações complexas entre extremos de variabilidade climática, saúde física e mental, justiça climática e planejamento urbano em comunidades vulneráveis no Brasil e na Holanda. O...",
+   "link": "https://fapesp.br/oportunidades/nexos-urbanos-de-clima-e-saude-ampliando-a-resiliencia-e-a-equidade-na-saude-atraves-da-ciencia-cidada-da-modelacao-de-sistemas-dinamicos-e-da-inovacao-em-politicas/9970/",
+   "prazo": "2026-11-25",
+   "aderencia": 2,
+   "visto_em": "2026-10-30"
   },
   {
    "id": "4db19786f5fd",
@@ -114,14 +124,14 @@
    "visto_em": "2026-10-05"
   },
   {
-   "id": "634b183e5c39",
+   "id": "283211e4db4a",
    "fonte": "FAPESP",
    "grupo": "Inovação e tecnologia",
    "titulo": "Bolsa de PD em Restauração de Imagens de Radar Meteorológico Instituição: Faculdade de Ciências – UNESP, câmpus Bauru Cidade: Bauru Inscrições até: 12/11/2026 A bolsa de Pós-Doutorado terá duração de 12 meses e envolverá o desenvolvimento de métodos de restauração de imagens de radar meteorológico, incluindo aprendizado profundo residual não local, modelos físicos e aprendizado por transferência. As atividades incluem revisão bibliográfica, implementação de redes neurais e de...",
-   "link": "https://fapesp.br/oportunidades/cepex-–-centro-paulista-de-integracao-de-dados-para-monitoramento-de-eventos-extremos/9967/",
+   "link": "https://fapesp.br/oportunidades/cepex--centro-paulista-de-integracao-de-dados-para-monitoramento-de-eventos-extremos/9967/",
    "prazo": "2026-11-12",
    "aderencia": 0,
-   "visto_em": "2026-10-27"
+   "visto_em": "2026-10-30"
   },
   {
    "id": "a4cad6a0fe69",
