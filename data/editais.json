@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-30T11:22:48.273796+00:00",
+ "gerado_em": "2026-11-02T11:39:15.274266+00:00",
  "fontes": [
   {
    "fonte": "IDB Lab",
@@ -44,6 +44,16 @@
  ],
  "items": [
   {
+   "id": "17f33d4f4393",
+   "fonte": "Embrapii",
+   "grupo": "Inovação e tecnologia",
+   "titulo": "Embrapii e Petrobras lançam chamada de R$ 14 milhões para projetos de alto impacto em economia circular Iniciativa vai apoiar o desenvolvimento de soluções tecnológicas para reaproveitamento de materiais e ativos industriais e ampliar a sustentabilidade da… 30 de outubro de 2026",
+   "link": "https://embrapii.org.br/embrapii-e-petrobras-lancam-chamada-de-r-14-milhoes-para-projetos-de-alto-impacto-em-economia-circular/",
+   "prazo": null,
+   "aderencia": 11,
+   "visto_em": "2026-11-02"
+  },
+  {
    "id": "aa77afd58046",
    "fonte": "FAPESP",
    "grupo": "Inovação e tecnologia",
@@ -62,16 +72,6 @@
    "prazo": null,
    "aderencia": 5,
    "visto_em": "2026-10-29"
-  },
-  {
-   "id": "b16684e7e915",
-   "fonte": "Embrapii",
-   "grupo": "Inovação e tecnologia",
-   "titulo": "Embrapii conquista o segundo lugar em prêmio nacional de inovação 8 de outubro de 2026",
-   "link": "https://embrapii.org.br/embrapii-conquista-o-segundo-lugar-em-premio-nacional-de-inovacao/",
-   "prazo": null,
-   "aderencia": 5,
-   "visto_em": "2026-10-09"
   },
   {
    "id": "7cee091aacdd",
