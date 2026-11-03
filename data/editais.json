@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-02T11:39:15.274266+00:00",
+ "gerado_em": "2026-11-03T11:39:01.032876+00:00",
  "fontes": [
   {
    "fonte": "IDB Lab",
@@ -28,7 +28,7 @@
   },
   {
    "fonte": "FAPESP",
-   "itens": 8,
+   "itens": 7,
    "erro": null
   },
   {
@@ -72,16 +72,6 @@
    "prazo": null,
    "aderencia": 5,
    "visto_em": "2026-10-29"
-  },
-  {
-   "id": "7cee091aacdd",
-   "fonte": "FAPESP",
-   "grupo": "Inovação e tecnologia",
-   "titulo": "Post-Doctoral Fellowship in Psychology Instituition: Instituto de Psicologia / Universidade de São Paulo City: São Paulo Deadline for submissions: 2026-11-02 The Postdoctoral fellow will work on symbolic and attentional processes in Experimental Analysis of Behavior. The fellowship is dedicated to the challenge of identifying and systematizing conditions (variables and procedures) that establish and promote the formation and generalization of the symbolic repertoire, particularly as applied to...",
-   "link": "https://fapesp.br/oportunidades/nas-fronteiras-cognitivas-e-comportamentais-o-papel-da-atencao-visual-nos-processos-psicologicos-basicos-na-formacao-simbolica-e-no-desenvolvimento-da-linguagem/9919/",
-   "prazo": null,
-   "aderencia": 2,
-   "visto_em": "2026-10-30"
   },
   {
    "id": "1336a0ed5c66",
