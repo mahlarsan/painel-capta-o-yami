@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-05T11:42:39.821869+00:00",
+ "gerado_em": "2026-11-06T17:44:26.421481+00:00",
  "fontes": [
   {
    "fonte": "IDB Lab",
@@ -28,7 +28,7 @@
   },
   {
    "fonte": "FAPESP",
-   "itens": 7,
+   "itens": 11,
    "erro": null
   },
   {
@@ -62,6 +62,16 @@
    "prazo": null,
    "aderencia": 7,
    "visto_em": "2026-10-30"
+  },
+  {
+   "id": "80e447aaaf7c",
+   "fonte": "FAPESP",
+   "grupo": "Inovação e tecnologia",
+   "titulo": "Bolsa de PD em Inteligência Artificial Instituição: Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto, Universidade de São Paulo (FFCLRP-USP) Cidade: Ribeirão Preto Inscrições até: 27/11/2026 Bolsa de Pós-Doutorado de 24 meses, para atuar no Projeto Temático SoIA. Especificamente, o bolsista atuará no desenvolvimento de técnicas de aprendizado de máquina do estado-da-arte, tais como Aprendizado Profundo, Modelos de Linguagem de Grande Escala (LLM), IA Generativa, Graph-based Learning e Visão Computacional, capazes...",
+   "link": "https://fapesp.br/oportunidades/fusao-de-dados-multimodais-e-modelagem-de-crescimento-baseados-em-aprendizado-de-maquina-para-melhoria-da-producao-de-soja-soia/10002/",
+   "prazo": "2026-11-27",
+   "aderencia": 5,
+   "visto_em": "2026-11-06"
   },
   {
    "id": "194ba20d15c4",
@@ -122,6 +132,26 @@
    "prazo": "2026-11-12",
    "aderencia": 0,
    "visto_em": "2026-10-30"
+  },
+  {
+   "id": "203ab557d131",
+   "fonte": "FAPESP",
+   "grupo": "Inovação e tecnologia",
+   "titulo": "Post-Doctoral Fellowship in Materials Chemistry / Engineering Instituition: Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas, Universidade Federal do ABC (CECS-UFBAC) City: Santo André Deadline for submissions: 2026-11-24 The main objective of this call for applications is to select a postdoctoral researcher to work on the development, characterization, and performance evaluation of polymeric beads—based on chitosan, cellulose, and starch—designed for the removal and recovery of metal ions (Cd2+, Cr6+, Cu2+, Mn2+, Ni2+ and...",
+   "link": "https://fapesp.br/oportunidades/materiais-porosos-ecologicos-para-a-recuperacao-e-reavaliacao-de-metais-recuperados-de-agua-contaminada/9999/",
+   "prazo": null,
+   "aderencia": 0,
+   "visto_em": "2026-11-06"
+  },
+  {
+   "id": "4d17a0cc4e45",
+   "fonte": "FAPESP",
+   "grupo": "Inovação e tecnologia",
+   "titulo": "Bolsa de PD em Biodegradação / Química de Materiais Instituição: Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas, Universidade Federal do ABC (CECS-UFBAC) Cidade: Santo André Inscrições até: 24/11/2026 Este Edital tem como objetivo principal selecionar um(a) pesquisador(a) de Pós-Doutorado que atuará para ampliar a compreensão sobre a biodegradabilidade e a segurança ambiental dos materiais porosos desenvolvidos no âmbito do Projeto Temático, especialmente aqueles que apresentaram desempenho promissor na remoção e na recuperação de...",
+   "link": "https://fapesp.br/oportunidades/materiais-porosos-ecologicos-para-a-recuperacao-e-reavaliacao-de-metais-recuperados-de-agua-contaminada/10000/",
+   "prazo": "2026-11-24",
+   "aderencia": 0,
+   "visto_em": "2026-11-06"
   },
   {
    "id": "a4cad6a0fe69",
