@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-06T17:44:26.421481+00:00",
+ "gerado_em": "2026-11-09T21:11:24.406878+00:00",
  "fontes": [
   {
    "fonte": "IDB Lab",
@@ -28,7 +28,7 @@
   },
   {
    "fonte": "FAPESP",
-   "itens": 11,
+   "itens": 13,
    "erro": null
   },
   {
@@ -47,10 +47,10 @@
    "id": "17f33d4f4393",
    "fonte": "Embrapii",
    "grupo": "Inovação e tecnologia",
-   "titulo": "Embrapii e Petrobras lançam chamada de R$ 14 milhões para projetos de alto impacto em economia circular 30 de outubro de 2026",
+   "titulo": "Embrapii e Petrobras lançam chamada de R$ 14,4 milhões para projetos de alto impacto em economia circular 30 de outubro de 2026",
    "link": "https://embrapii.org.br/embrapii-e-petrobras-lancam-chamada-de-r-14-milhoes-para-projetos-de-alto-impacto-em-economia-circular/",
    "prazo": null,
-   "aderencia": 13,
+   "aderencia": 12,
    "visto_em": "2026-11-02"
   },
   {
@@ -104,6 +104,16 @@
    "visto_em": "2026-10-30"
   },
   {
+   "id": "4b697a3ab889",
+   "fonte": "FAPESP",
+   "grupo": "Inovação e tecnologia",
+   "titulo": "Bolsas de PD em Risco Climático e Finanças Empíricas Instituição: Escola de Administração de Empresas de São Paulo, Fundação Getulio Vargas (FGV EAESP) Cidade: São Paulo Inscrições até: 07/12/2026 O FGVquantfin – Centro de Estudos Quantitativos em Economia e Finanças (CEQEF) da FGV-EAESP abre chamada de candidatura para 2 (duas) bolsas de pós-doutorado FAPESP: 1) Eixo Métodos de previsão para dados econômicos e climáticos em alta dimensão – “Elaboração, execução e análise de suporte computacional”,...",
+   "link": "https://fapesp.br/oportunidades/modelagem-e-previsao-econometrica-em-modelos-de-alta-dimensao/10019/",
+   "prazo": "2026-12-07",
+   "aderencia": 2,
+   "visto_em": "2026-11-09"
+  },
+  {
    "id": "4db19786f5fd",
    "fonte": "Finep",
    "grupo": "Inovação e tecnologia",
@@ -152,6 +162,16 @@
    "prazo": "2026-11-24",
    "aderencia": 0,
    "visto_em": "2026-11-06"
+  },
+  {
+   "id": "3fd269d23839",
+   "fonte": "FAPESP",
+   "grupo": "Inovação e tecnologia",
+   "titulo": "Post-Doctoral Fellowship in Architectures for Data Interoperability and Integration Instituition: Instituto de Ciências Matemáticas e de Computação, Universidade de São Paulo (ICMC-USP) City: São Carlos Deadline for submissions: 2026-12-10 Public administration faces major challenges in integrating data across sectors like healthcare, education, and transportation due to diverse systems, formats, and policies. This 24-month post-doctoral project aims to design and implement innovative solutions, such as lakehouse architectures, to enable data interoperability across sectors in the...",
+   "link": "https://fapesp.br/oportunidades/integrasanca-conectando-dados-transformando-sao-carlos/9854/",
+   "prazo": null,
+   "aderencia": 0,
+   "visto_em": "2026-11-09"
   },
   {
    "id": "a4cad6a0fe69",
