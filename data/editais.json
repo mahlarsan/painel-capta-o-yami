@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-10T18:21:37.045776+00:00",
+ "gerado_em": "2026-11-11T18:11:32.340438+00:00",
  "fontes": [
   {
    "fonte": "IDB Lab",
@@ -28,7 +28,7 @@
   },
   {
    "fonte": "FAPESP",
-   "itens": 13,
+   "itens": 15,
    "erro": null
   },
   {
@@ -164,6 +164,16 @@
    "visto_em": "2026-11-06"
   },
   {
+   "id": "a684c2b98247",
+   "fonte": "FAPESP",
+   "grupo": "Inovação e tecnologia",
+   "titulo": "Doctorate Fellowship in Assistive Technologies Instituition: Escola Politécnica, Universidade de São Paulo (Poli-USP) City: São Paulo Deadline for submissions: 2026-12-01 The project aims to develop a modular and sustainable exoskeleton for the rehabilitation of people with motor disabilities. The proposal includes assessing the needs of patients and professionals in the field, ensuring compatibility with other assistive devices under development, such as wheelchairs. Challenges will include...",
+   "link": "https://fapesp.br/oportunidades/centro-de-tecnologias-assistivas-para-as-atividades-da-vida-diaria-ctecvida/10023/",
+   "prazo": null,
+   "aderencia": 0,
+   "visto_em": "2026-11-11"
+  },
+  {
    "id": "3fd269d23839",
    "fonte": "FAPESP",
    "grupo": "Inovação e tecnologia",
@@ -172,6 +182,16 @@
    "prazo": null,
    "aderencia": 0,
    "visto_em": "2026-11-09"
+  },
+  {
+   "id": "39f5d82278f7",
+   "fonte": "FAPESP",
+   "grupo": "Inovação e tecnologia",
+   "titulo": "Post-Doctoral Fellowship in Matrix-Variate Distributions Instituition: Departamento de Estatística, Universidade Federal de São Carlos (DEs-UFSCar) City: São Carlos Deadline for submissions: 2027-01-10 The post-doctoral fellow will conduct research on the development of new classes of matrix-variate distributions and matrix-variate regression models, including theoretical studies, statistical inference methods, computational implementation, and applications to real data. The research is part of a FAPESP-funded Regular Research Grant and will be...",
+   "link": "https://fapesp.br/oportunidades/regressao-de-mistura-de-escalas-de-normais-matriz-variadas-para-dados-espaco-temporais/10024/",
+   "prazo": null,
+   "aderencia": 0,
+   "visto_em": "2026-11-11"
   },
   {
    "id": "a4cad6a0fe69",
