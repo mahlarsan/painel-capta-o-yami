@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-11T18:11:32.340438+00:00",
+ "gerado_em": "2026-11-12T18:38:38.909624+00:00",
  "fontes": [
   {
    "fonte": "IDB Lab",
@@ -44,74 +44,74 @@
  ],
  "items": [
   {
-   "id": "17f33d4f4393",
-   "fonte": "Embrapii",
-   "grupo": "Inovação e tecnologia",
-   "titulo": "Embrapii e Petrobras lançam chamada de R$ 14,4 milhões para projetos de alto impacto em economia circular 30 de outubro de 2026",
-   "link": "https://embrapii.org.br/embrapii-e-petrobras-lancam-chamada-de-r-14-milhoes-para-projetos-de-alto-impacto-em-economia-circular/",
-   "prazo": null,
-   "aderencia": 12,
-   "visto_em": "2026-11-02"
-  },
-  {
-   "id": "aa77afd58046",
+   "id": "26f77c303164",
    "fonte": "FAPESP",
    "grupo": "Inovação e tecnologia",
    "titulo": "Post-Doctoral Fellowship in Artificial Intelligence Instituition: Faculdade de Engenharia Mecânica, Universidade Estadual de Campinas (FEM-Unicamp) City: Campinas Deadline for submissions: 2026-11-14 The Artificial Intelligence Laboratory (Recod.ai) at UNICAMP opens a call for a Post-Doctoral position in the area of Artificial Intelligence applied to Oil and Gas, integrated into the Energy Production Innovation Center (EPIC). The researcher in Artificial Intelligence will be able to act in the...",
-   "link": "https://fapesp.br/oportunidades/centro-de-inovacao-em-producao-de-energia-epic/9972/",
+   "link": "https://fapesp.br/centro-de-inovacao-em-producao-de-energia-epic/9972/",
    "prazo": null,
    "aderencia": 7,
-   "visto_em": "2026-10-30"
+   "visto_em": "2026-11-12"
   },
   {
-   "id": "80e447aaaf7c",
+   "id": "c7028b71cd8c",
+   "fonte": "Embrapii",
+   "grupo": "Inovação e tecnologia",
+   "titulo": "UFPR lança chamada pública para empresas integrarem Associação Tecnológica do Centro de Competência Embrapii UFPR em Hidrogênio Com R$ 60 milhões em recursos pactuados com a Embrapii, iniciativa busca aproximar empresas de diferentes portes da pesquisa, do… 11 de novembro de 2026",
+   "link": "https://embrapii.org.br/ufpr-lanca-chamada-publica-para-empresas-integrarem-associacao-tecnologica-do-centro-de-competencia-embrapii-ufpr-em-hidrogenio/",
+   "prazo": null,
+   "aderencia": 7,
+   "visto_em": "2026-11-12"
+  },
+  {
+   "id": "ca9672564a89",
    "fonte": "FAPESP",
    "grupo": "Inovação e tecnologia",
    "titulo": "Bolsa de PD em Inteligência Artificial Instituição: Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto, Universidade de São Paulo (FFCLRP-USP) Cidade: Ribeirão Preto Inscrições até: 27/11/2026 Bolsa de Pós-Doutorado de 24 meses, para atuar no Projeto Temático SoIA. Especificamente, o bolsista atuará no desenvolvimento de técnicas de aprendizado de máquina do estado-da-arte, tais como Aprendizado Profundo, Modelos de Linguagem de Grande Escala (LLM), IA Generativa, Graph-based Learning e Visão Computacional, capazes...",
-   "link": "https://fapesp.br/oportunidades/fusao-de-dados-multimodais-e-modelagem-de-crescimento-baseados-em-aprendizado-de-maquina-para-melhoria-da-producao-de-soja-soia/10002/",
+   "link": "https://fapesp.br/fusao-de-dados-multimodais-e-modelagem-de-crescimento-baseados-em-aprendizado-de-maquina-para-melhoria-da-producao-de-soja-soia/10002/",
    "prazo": "2026-11-27",
    "aderencia": 5,
-   "visto_em": "2026-11-06"
+   "visto_em": "2026-11-12"
   },
   {
-   "id": "194ba20d15c4",
+   "id": "6d00f808e3f1",
    "fonte": "FAPESP",
    "grupo": "Inovação e tecnologia",
    "titulo": "Post-Doctoral Fellowship in Sociology of Science and Technology Instituition: Departamento de Sociologia – Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São Paulo (FFLCH-USP) City: São Paulo Deadline for submissions: 2026-12-04 The researcher will lead a study aiming at investigating how Artificial Intelligence views, narratives and futures are codified in S&T policies and systems internationally, producing effects on the governance, funding, and organization of scientific research. The successful candidate will conduct qualitative research and literature review...",
-   "link": "https://fapesp.br/oportunidades/algoritmos-para-que-codificando-a-relevancia-da-inteligencia-artificial-nas-praticas-normas-valores-e-sistemas-cientificos/9979/",
+   "link": "https://fapesp.br/algoritmos-para-que-codificando-a-relevancia-da-inteligencia-artificial-nas-praticas-normas-valores-e-sistemas-cientificos/9979/",
    "prazo": null,
    "aderencia": 5,
-   "visto_em": "2026-10-29"
+   "visto_em": "2026-11-12"
   },
   {
-   "id": "1336a0ed5c66",
+   "id": "dec8a52cc699",
    "fonte": "FAPESP",
    "grupo": "Inovação e tecnologia",
    "titulo": "Master’s Fellowship in Molecular Biology Instituition: Escola de Engenharia de Lorena, Universidade de São Paulo (EEL-USP) City: Lorena Deadline for submissions: 2026-11-21 The fellow will screen and select recombinant microalgal strains, produce proteins at small scale, and perform enzyme activity assays and preliminary kinetic characterization. Research will take place at JUST Lab, EEL-USP, Lorena, Brazil, under FAPESP Young Investigator grant 2025/09133-0, supporting bioprocess development for proteins of...",
-   "link": "https://fapesp.br/oportunidades/plataforma-de-desenvolvimento-de-biofarmaco-em-microalgas-creglicerase/9957/",
+   "link": "https://fapesp.br/plataforma-de-desenvolvimento-de-biofarmaco-em-microalgas-creglicerase/9957/",
    "prazo": null,
    "aderencia": 2,
-   "visto_em": "2026-10-30"
+   "visto_em": "2026-11-12"
   },
   {
-   "id": "9852263532c4",
+   "id": "9aec94c8821b",
    "fonte": "FAPESP",
    "grupo": "Inovação e tecnologia",
    "titulo": "Bolsa de PD em Saúde Ambiental / Planejamento Urbano Instituição: Instituto de Energia e Ambiente, Universidade de São Paulo (IEE-USP) Cidade: São Paulo Inscrições até: 25/11/2026 Esta chamada de pós-doutorado FAPESP é componente do projeto REACH Nexus, que aplica abordagem de modelagem participativa para investigar as interações complexas entre extremos de variabilidade climática, saúde física e mental, justiça climática e planejamento urbano em comunidades vulneráveis no Brasil e na Holanda. O...",
-   "link": "https://fapesp.br/oportunidades/nexos-urbanos-de-clima-e-saude-ampliando-a-resiliencia-e-a-equidade-na-saude-atraves-da-ciencia-cidada-da-modelacao-de-sistemas-dinamicos-e-da-inovacao-em-politicas/9970/",
+   "link": "https://fapesp.br/nexos-urbanos-de-clima-e-saude-ampliando-a-resiliencia-e-a-equidade-na-saude-atraves-da-ciencia-cidada-da-modelacao-de-sistemas-dinamicos-e-da-inovacao-em-politicas/9970/",
    "prazo": "2026-11-25",
    "aderencia": 2,
-   "visto_em": "2026-10-30"
+   "visto_em": "2026-11-12"
   },
   {
-   "id": "4b697a3ab889",
+   "id": "9c9b7be676cf",
    "fonte": "FAPESP",
    "grupo": "Inovação e tecnologia",
    "titulo": "Bolsas de PD em Risco Climático e Finanças Empíricas Instituição: Escola de Administração de Empresas de São Paulo, Fundação Getulio Vargas (FGV EAESP) Cidade: São Paulo Inscrições até: 07/12/2026 O FGVquantfin – Centro de Estudos Quantitativos em Economia e Finanças (CEQEF) da FGV-EAESP abre chamada de candidatura para 2 (duas) bolsas de pós-doutorado FAPESP: 1) Eixo Métodos de previsão para dados econômicos e climáticos em alta dimensão – “Elaboração, execução e análise de suporte computacional”,...",
-   "link": "https://fapesp.br/oportunidades/modelagem-e-previsao-econometrica-em-modelos-de-alta-dimensao/10019/",
+   "link": "https://fapesp.br/modelagem-e-previsao-econometrica-em-modelos-de-alta-dimensao/10019/",
    "prazo": "2026-12-07",
    "aderencia": 2,
-   "visto_em": "2026-11-09"
+   "visto_em": "2026-11-12"
   },
   {
    "id": "4db19786f5fd",
@@ -134,64 +134,64 @@
    "visto_em": "2026-10-05"
   },
   {
-   "id": "283211e4db4a",
+   "id": "f7d2ffde0001",
    "fonte": "FAPESP",
    "grupo": "Inovação e tecnologia",
    "titulo": "Bolsa de PD em Restauração de Imagens de Radar Meteorológico Instituição: Faculdade de Ciências – UNESP, câmpus Bauru Cidade: Bauru Inscrições até: 12/11/2026 A bolsa de Pós-Doutorado terá duração de 12 meses e envolverá o desenvolvimento de métodos de restauração de imagens de radar meteorológico, incluindo aprendizado profundo residual não local, modelos físicos e aprendizado por transferência. As atividades incluem revisão bibliográfica, implementação de redes neurais e de...",
-   "link": "https://fapesp.br/oportunidades/cepex--centro-paulista-de-integracao-de-dados-para-monitoramento-de-eventos-extremos/9967/",
+   "link": "https://fapesp.br/cepex--centro-paulista-de-integracao-de-dados-para-monitoramento-de-eventos-extremos/9967/",
    "prazo": "2026-11-12",
    "aderencia": 0,
-   "visto_em": "2026-10-30"
+   "visto_em": "2026-11-12"
   },
   {
-   "id": "203ab557d131",
+   "id": "e3be81bb353a",
    "fonte": "FAPESP",
    "grupo": "Inovação e tecnologia",
    "titulo": "Post-Doctoral Fellowship in Materials Chemistry / Engineering Instituition: Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas, Universidade Federal do ABC (CECS-UFBAC) City: Santo André Deadline for submissions: 2026-11-24 The main objective of this call for applications is to select a postdoctoral researcher to work on the development, characterization, and performance evaluation of polymeric beads—based on chitosan, cellulose, and starch—designed for the removal and recovery of metal ions (Cd2+, Cr6+, Cu2+, Mn2+, Ni2+ and...",
-   "link": "https://fapesp.br/oportunidades/materiais-porosos-ecologicos-para-a-recuperacao-e-reavaliacao-de-metais-recuperados-de-agua-contaminada/9999/",
+   "link": "https://fapesp.br/materiais-porosos-ecologicos-para-a-recuperacao-e-reavaliacao-de-metais-recuperados-de-agua-contaminada/9999/",
    "prazo": null,
    "aderencia": 0,
-   "visto_em": "2026-11-06"
+   "visto_em": "2026-11-12"
   },
   {
-   "id": "4d17a0cc4e45",
+   "id": "4bf63932c56d",
    "fonte": "FAPESP",
    "grupo": "Inovação e tecnologia",
    "titulo": "Bolsa de PD em Biodegradação / Química de Materiais Instituição: Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas, Universidade Federal do ABC (CECS-UFBAC) Cidade: Santo André Inscrições até: 24/11/2026 Este Edital tem como objetivo principal selecionar um(a) pesquisador(a) de Pós-Doutorado que atuará para ampliar a compreensão sobre a biodegradabilidade e a segurança ambiental dos materiais porosos desenvolvidos no âmbito do Projeto Temático, especialmente aqueles que apresentaram desempenho promissor na remoção e na recuperação de...",
-   "link": "https://fapesp.br/oportunidades/materiais-porosos-ecologicos-para-a-recuperacao-e-reavaliacao-de-metais-recuperados-de-agua-contaminada/10000/",
+   "link": "https://fapesp.br/materiais-porosos-ecologicos-para-a-recuperacao-e-reavaliacao-de-metais-recuperados-de-agua-contaminada/10000/",
    "prazo": "2026-11-24",
    "aderencia": 0,
-   "visto_em": "2026-11-06"
+   "visto_em": "2026-11-12"
   },
   {
-   "id": "a684c2b98247",
+   "id": "940b9284e532",
    "fonte": "FAPESP",
    "grupo": "Inovação e tecnologia",
    "titulo": "Doctorate Fellowship in Assistive Technologies Instituition: Escola Politécnica, Universidade de São Paulo (Poli-USP) City: São Paulo Deadline for submissions: 2026-12-01 The project aims to develop a modular and sustainable exoskeleton for the rehabilitation of people with motor disabilities. The proposal includes assessing the needs of patients and professionals in the field, ensuring compatibility with other assistive devices under development, such as wheelchairs. Challenges will include...",
-   "link": "https://fapesp.br/oportunidades/centro-de-tecnologias-assistivas-para-as-atividades-da-vida-diaria-ctecvida/10023/",
+   "link": "https://fapesp.br/centro-de-tecnologias-assistivas-para-as-atividades-da-vida-diaria-ctecvida/10023/",
    "prazo": null,
    "aderencia": 0,
-   "visto_em": "2026-11-11"
+   "visto_em": "2026-11-12"
   },
   {
-   "id": "3fd269d23839",
+   "id": "307dc15acade",
    "fonte": "FAPESP",
    "grupo": "Inovação e tecnologia",
    "titulo": "Post-Doctoral Fellowship in Architectures for Data Interoperability and Integration Instituition: Instituto de Ciências Matemáticas e de Computação, Universidade de São Paulo (ICMC-USP) City: São Carlos Deadline for submissions: 2026-12-10 Public administration faces major challenges in integrating data across sectors like healthcare, education, and transportation due to diverse systems, formats, and policies. This 24-month post-doctoral project aims to design and implement innovative solutions, such as lakehouse architectures, to enable data interoperability across sectors in the...",
-   "link": "https://fapesp.br/oportunidades/integrasanca-conectando-dados-transformando-sao-carlos/9854/",
+   "link": "https://fapesp.br/integrasanca-conectando-dados-transformando-sao-carlos/9854/",
    "prazo": null,
    "aderencia": 0,
-   "visto_em": "2026-11-09"
+   "visto_em": "2026-11-12"
   },
   {
-   "id": "39f5d82278f7",
+   "id": "a748bb9237f2",
    "fonte": "FAPESP",
    "grupo": "Inovação e tecnologia",
    "titulo": "Post-Doctoral Fellowship in Matrix-Variate Distributions Instituition: Departamento de Estatística, Universidade Federal de São Carlos (DEs-UFSCar) City: São Carlos Deadline for submissions: 2027-01-10 The post-doctoral fellow will conduct research on the development of new classes of matrix-variate distributions and matrix-variate regression models, including theoretical studies, statistical inference methods, computational implementation, and applications to real data. The research is part of a FAPESP-funded Regular Research Grant and will be...",
-   "link": "https://fapesp.br/oportunidades/regressao-de-mistura-de-escalas-de-normais-matriz-variadas-para-dados-espaco-temporais/10024/",
+   "link": "https://fapesp.br/regressao-de-mistura-de-escalas-de-normais-matriz-variadas-para-dados-espaco-temporais/10024/",
    "prazo": null,
    "aderencia": 0,
-   "visto_em": "2026-11-11"
+   "visto_em": "2026-11-12"
   },
   {
    "id": "a4cad6a0fe69",
