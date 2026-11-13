@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-12T18:38:38.909624+00:00",
+ "gerado_em": "2026-11-13T18:15:53.545706+00:00",
  "fontes": [
   {
    "fonte": "IDB Lab",
@@ -28,7 +28,7 @@
   },
   {
    "fonte": "FAPESP",
-   "itens": 15,
+   "itens": 14,
    "erro": null
   },
   {
@@ -44,21 +44,21 @@
  ],
  "items": [
   {
+   "id": "c7028b71cd8c",
+   "fonte": "Embrapii",
+   "grupo": "Inovação e tecnologia",
+   "titulo": "UFPR lança chamada pública para empresas integrarem Associação Tecnológica do Centro de Competência Embrapii UFPR em Hidrogênio 11 de novembro de 2026",
+   "link": "https://embrapii.org.br/ufpr-lanca-chamada-publica-para-empresas-integrarem-associacao-tecnologica-do-centro-de-competencia-embrapii-ufpr-em-hidrogenio/",
+   "prazo": null,
+   "aderencia": 9,
+   "visto_em": "2026-11-12"
+  },
+  {
    "id": "26f77c303164",
    "fonte": "FAPESP",
    "grupo": "Inovação e tecnologia",
    "titulo": "Post-Doctoral Fellowship in Artificial Intelligence Instituition: Faculdade de Engenharia Mecânica, Universidade Estadual de Campinas (FEM-Unicamp) City: Campinas Deadline for submissions: 2026-11-14 The Artificial Intelligence Laboratory (Recod.ai) at UNICAMP opens a call for a Post-Doctoral position in the area of Artificial Intelligence applied to Oil and Gas, integrated into the Energy Production Innovation Center (EPIC). The researcher in Artificial Intelligence will be able to act in the...",
    "link": "https://fapesp.br/centro-de-inovacao-em-producao-de-energia-epic/9972/",
-   "prazo": null,
-   "aderencia": 7,
-   "visto_em": "2026-11-12"
-  },
-  {
-   "id": "c7028b71cd8c",
-   "fonte": "Embrapii",
-   "grupo": "Inovação e tecnologia",
-   "titulo": "UFPR lança chamada pública para empresas integrarem Associação Tecnológica do Centro de Competência Embrapii UFPR em Hidrogênio Com R$ 60 milhões em recursos pactuados com a Embrapii, iniciativa busca aproximar empresas de diferentes portes da pesquisa, do… 11 de novembro de 2026",
-   "link": "https://embrapii.org.br/ufpr-lanca-chamada-publica-para-empresas-integrarem-associacao-tecnologica-do-centro-de-competencia-embrapii-ufpr-em-hidrogenio/",
    "prazo": null,
    "aderencia": 7,
    "visto_em": "2026-11-12"
@@ -132,16 +132,6 @@
    "prazo": null,
    "aderencia": 0,
    "visto_em": "2026-10-05"
-  },
-  {
-   "id": "f7d2ffde0001",
-   "fonte": "FAPESP",
-   "grupo": "Inovação e tecnologia",
-   "titulo": "Bolsa de PD em Restauração de Imagens de Radar Meteorológico Instituição: Faculdade de Ciências – UNESP, câmpus Bauru Cidade: Bauru Inscrições até: 12/11/2026 A bolsa de Pós-Doutorado terá duração de 12 meses e envolverá o desenvolvimento de métodos de restauração de imagens de radar meteorológico, incluindo aprendizado profundo residual não local, modelos físicos e aprendizado por transferência. As atividades incluem revisão bibliográfica, implementação de redes neurais e de...",
-   "link": "https://fapesp.br/cepex--centro-paulista-de-integracao-de-dados-para-monitoramento-de-eventos-extremos/9967/",
-   "prazo": "2026-11-12",
-   "aderencia": 0,
-   "visto_em": "2026-11-12"
   },
   {
    "id": "e3be81bb353a",
