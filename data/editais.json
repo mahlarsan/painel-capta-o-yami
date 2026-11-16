@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-13T18:15:53.545706+00:00",
+ "gerado_em": "2026-11-16T20:44:16.440235+00:00",
  "fontes": [
   {
    "fonte": "IDB Lab",
@@ -28,7 +28,7 @@
   },
   {
    "fonte": "FAPESP",
-   "itens": 14,
+   "itens": 13,
    "erro": null
   },
   {
@@ -54,14 +54,14 @@
    "visto_em": "2026-11-12"
   },
   {
-   "id": "26f77c303164",
+   "id": "c67cfbae2e7b",
    "fonte": "FAPESP",
    "grupo": "Inovação e tecnologia",
-   "titulo": "Post-Doctoral Fellowship in Artificial Intelligence Instituition: Faculdade de Engenharia Mecânica, Universidade Estadual de Campinas (FEM-Unicamp) City: Campinas Deadline for submissions: 2026-11-14 The Artificial Intelligence Laboratory (Recod.ai) at UNICAMP opens a call for a Post-Doctoral position in the area of Artificial Intelligence applied to Oil and Gas, integrated into the Energy Production Innovation Center (EPIC). The researcher in Artificial Intelligence will be able to act in the...",
-   "link": "https://fapesp.br/centro-de-inovacao-em-producao-de-energia-epic/9972/",
-   "prazo": null,
+   "titulo": "Bolsa de PD em Inteligência Artificial aplicada a Saúde e Bem-Estar Instituição: Instituto de Computação, Universidade Estadual de Campinas (IC-Unicamp) Cidade: Campinas Inscrições até: 01/12/2026 O Laboratório de Inteligência Artificial (Recod.ai) do IC-Unicamp abre chamada para uma vaga de Pós-Doutorado na área de Inteligência Artificial aplicada a Saúde e Bem-Estar. O(A) bolsista será responsável pela gestão de pesquisas voltadas ao desenvolvimento de algoritmos para o monitoramento contínuo da saúde por meio...",
+   "link": "https://fapesp.br/viva-bem-inteligencia-artificial-para-saude-e-bem-estar/9740/",
+   "prazo": "2026-12-01",
    "aderencia": 7,
-   "visto_em": "2026-11-12"
+   "visto_em": "2026-11-16"
   },
   {
    "id": "ca9672564a89",
