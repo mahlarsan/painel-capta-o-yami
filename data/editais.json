@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-16T20:44:16.440235+00:00",
+ "gerado_em": "2026-11-17T19:28:16.995702+00:00",
  "fontes": [
   {
    "fonte": "IDB Lab",
@@ -44,16 +44,6 @@
  ],
  "items": [
   {
-   "id": "c7028b71cd8c",
-   "fonte": "Embrapii",
-   "grupo": "Inovação e tecnologia",
-   "titulo": "UFPR lança chamada pública para empresas integrarem Associação Tecnológica do Centro de Competência Embrapii UFPR em Hidrogênio 11 de novembro de 2026",
-   "link": "https://embrapii.org.br/ufpr-lanca-chamada-publica-para-empresas-integrarem-associacao-tecnologica-do-centro-de-competencia-embrapii-ufpr-em-hidrogenio/",
-   "prazo": null,
-   "aderencia": 9,
-   "visto_em": "2026-11-12"
-  },
-  {
    "id": "c67cfbae2e7b",
    "fonte": "FAPESP",
    "grupo": "Inovação e tecnologia",
@@ -79,6 +69,16 @@
    "grupo": "Inovação e tecnologia",
    "titulo": "Post-Doctoral Fellowship in Sociology of Science and Technology Instituition: Departamento de Sociologia – Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São Paulo (FFLCH-USP) City: São Paulo Deadline for submissions: 2026-12-04 The researcher will lead a study aiming at investigating how Artificial Intelligence views, narratives and futures are codified in S&T policies and systems internationally, producing effects on the governance, funding, and organization of scientific research. The successful candidate will conduct qualitative research and literature review...",
    "link": "https://fapesp.br/algoritmos-para-que-codificando-a-relevancia-da-inteligencia-artificial-nas-praticas-normas-valores-e-sistemas-cientificos/9979/",
+   "prazo": null,
+   "aderencia": 5,
+   "visto_em": "2026-11-12"
+  },
+  {
+   "id": "c7028b71cd8c",
+   "fonte": "Embrapii",
+   "grupo": "Inovação e tecnologia",
+   "titulo": "UFPR lança chamada pública para empresas integrarem Associação Tecnológica do Centro de Competência Embrapii UFPR em Hidrogênio 11 de novembro de 2026",
+   "link": "https://embrapii.org.br/ufpr-lanca-chamada-publica-para-empresas-integrarem-associacao-tecnologica-do-centro-de-competencia-embrapii-ufpr-em-hidrogenio/",
    "prazo": null,
    "aderencia": 5,
    "visto_em": "2026-11-12"
