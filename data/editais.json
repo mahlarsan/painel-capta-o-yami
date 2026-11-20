@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-19T19:14:21.072891+00:00",
+ "gerado_em": "2026-11-20T18:54:13.165972+00:00",
  "fontes": [
   {
    "fonte": "IDB Lab",
@@ -19,7 +19,7 @@
   {
    "fonte": "BNDES",
    "itens": 0,
-   "erro": null
+   "erro": "HTTPSConnectionPool(host='www.bndes.gov.br', port=443): Max retries exceeded with url: /wps/portal/site/home/transparenc"
   },
   {
    "fonte": "CNPq",
