@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-20T18:54:13.165972+00:00",
+ "gerado_em": "2026-11-23T22:18:14.727715+00:00",
  "fontes": [
   {
    "fonte": "IDB Lab",
@@ -19,7 +19,7 @@
   {
    "fonte": "BNDES",
    "itens": 0,
-   "erro": "HTTPSConnectionPool(host='www.bndes.gov.br', port=443): Max retries exceeded with url: /wps/portal/site/home/transparenc"
+   "erro": null
   },
   {
    "fonte": "CNPq",
@@ -84,16 +84,6 @@
    "visto_em": "2026-11-12"
   },
   {
-   "id": "dec8a52cc699",
-   "fonte": "FAPESP",
-   "grupo": "Inovação e tecnologia",
-   "titulo": "Master’s Fellowship in Molecular Biology Instituition: Escola de Engenharia de Lorena, Universidade de São Paulo (EEL-USP) City: Lorena Deadline for submissions: 2026-11-21 The fellow will screen and select recombinant microalgal strains, produce proteins at small scale, and perform enzyme activity assays and preliminary kinetic characterization. Research will take place at JUST Lab, EEL-USP, Lorena, Brazil, under FAPESP Young Investigator grant 2025/09133-0, supporting bioprocess development for proteins of...",
-   "link": "https://fapesp.br/plataforma-de-desenvolvimento-de-biofarmaco-em-microalgas-creglicerase/9957/",
-   "prazo": null,
-   "aderencia": 2,
-   "visto_em": "2026-11-12"
-  },
-  {
    "id": "9aec94c8821b",
    "fonte": "FAPESP",
    "grupo": "Inovação e tecnologia",
@@ -112,6 +102,16 @@
    "prazo": "2026-12-07",
    "aderencia": 2,
    "visto_em": "2026-11-12"
+  },
+  {
+   "id": "78974bd1e469",
+   "fonte": "FAPESP",
+   "grupo": "Inovação e tecnologia",
+   "titulo": "Post-Doctoral Fellowship in Computer Science Instituition: Reitoria da Universidade de São Paulo (RUSP) City: São Paulo Deadline for submissions: 2027-01-31 Position in the Computer Science pillar of the “URBANGREENOPT – Challenges of urban greening optimization to promote a transition towards more sustainable and resilient megalopolises: an integrative perspective” project, under the aegis of the “Worlds in Transitions” International Research Center (CNRS/USP). The fellow will develop a platform...",
+   "link": "https://fapesp.br/centro-internacional-de-pesquisa--cip-worlds-in-transitions-cnrs-usp/10061/",
+   "prazo": null,
+   "aderencia": 2,
+   "visto_em": "2026-11-23"
   },
   {
    "id": "4db19786f5fd",
