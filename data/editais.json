@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-24T20:55:38.667454+00:00",
+ "gerado_em": "2026-11-25T20:17:52.312470+00:00",
  "fontes": [
   {
    "fonte": "IDB Lab",
@@ -28,7 +28,7 @@
   },
   {
    "fonte": "FAPESP",
-   "itens": 13,
+   "itens": 10,
    "erro": null
   },
   {
@@ -132,26 +132,6 @@
    "prazo": null,
    "aderencia": 0,
    "visto_em": "2026-10-05"
-  },
-  {
-   "id": "e3be81bb353a",
-   "fonte": "FAPESP",
-   "grupo": "Inovação e tecnologia",
-   "titulo": "Post-Doctoral Fellowship in Materials Chemistry / Engineering Instituition: Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas, Universidade Federal do ABC (CECS-UFBAC) City: Santo André Deadline for submissions: 2026-11-24 The main objective of this call for applications is to select a postdoctoral researcher to work on the development, characterization, and performance evaluation of polymeric beads—based on chitosan, cellulose, and starch—designed for the removal and recovery of metal ions (Cd2+, Cr6+, Cu2+, Mn2+, Ni2+ and...",
-   "link": "https://fapesp.br/materiais-porosos-ecologicos-para-a-recuperacao-e-reavaliacao-de-metais-recuperados-de-agua-contaminada/9999/",
-   "prazo": null,
-   "aderencia": 0,
-   "visto_em": "2026-11-12"
-  },
-  {
-   "id": "4bf63932c56d",
-   "fonte": "FAPESP",
-   "grupo": "Inovação e tecnologia",
-   "titulo": "Bolsa de PD em Biodegradação / Química de Materiais Instituição: Centro de Engenharia, Modelagem e Ciências Sociais Aplicadas, Universidade Federal do ABC (CECS-UFBAC) Cidade: Santo André Inscrições até: 24/11/2026 Este Edital tem como objetivo principal selecionar um(a) pesquisador(a) de Pós-Doutorado que atuará para ampliar a compreensão sobre a biodegradabilidade e a segurança ambiental dos materiais porosos desenvolvidos no âmbito do Projeto Temático, especialmente aqueles que apresentaram desempenho promissor na remoção e na recuperação de...",
-   "link": "https://fapesp.br/materiais-porosos-ecologicos-para-a-recuperacao-e-reavaliacao-de-metais-recuperados-de-agua-contaminada/10000/",
-   "prazo": "2026-11-24",
-   "aderencia": 0,
-   "visto_em": "2026-11-12"
   },
   {
    "id": "940b9284e532",
