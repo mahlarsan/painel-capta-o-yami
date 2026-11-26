@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-25T20:17:52.312470+00:00",
+ "gerado_em": "2026-11-26T19:55:26.321044+00:00",
  "fontes": [
   {
    "fonte": "IDB Lab",
@@ -28,7 +28,7 @@
   },
   {
    "fonte": "FAPESP",
-   "itens": 10,
+   "itens": 9,
    "erro": null
   },
   {
@@ -80,17 +80,7 @@
    "titulo": "UFPR lança chamada pública para empresas integrarem Associação Tecnológica do Centro de Competência Embrapii UFPR em Hidrogênio 11 de novembro de 2026",
    "link": "https://embrapii.org.br/ufpr-lanca-chamada-publica-para-empresas-integrarem-associacao-tecnologica-do-centro-de-competencia-embrapii-ufpr-em-hidrogenio/",
    "prazo": null,
-   "aderencia": 5,
-   "visto_em": "2026-11-12"
-  },
-  {
-   "id": "9aec94c8821b",
-   "fonte": "FAPESP",
-   "grupo": "Inovação e tecnologia",
-   "titulo": "Bolsa de PD em Saúde Ambiental / Planejamento Urbano Instituição: Instituto de Energia e Ambiente, Universidade de São Paulo (IEE-USP) Cidade: São Paulo Inscrições até: 25/11/2026 Esta chamada de pós-doutorado FAPESP é componente do projeto REACH Nexus, que aplica abordagem de modelagem participativa para investigar as interações complexas entre extremos de variabilidade climática, saúde física e mental, justiça climática e planejamento urbano em comunidades vulneráveis no Brasil e na Holanda. O...",
-   "link": "https://fapesp.br/nexos-urbanos-de-clima-e-saude-ampliando-a-resiliencia-e-a-equidade-na-saude-atraves-da-ciencia-cidada-da-modelacao-de-sistemas-dinamicos-e-da-inovacao-em-politicas/9970/",
-   "prazo": "2026-11-25",
-   "aderencia": 2,
+   "aderencia": 4,
    "visto_em": "2026-11-12"
   },
   {
